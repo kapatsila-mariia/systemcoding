@@ -1,0 +1,2 @@
+import lab
+lab.sort()
